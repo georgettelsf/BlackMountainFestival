@@ -1,3 +1,3 @@
 # BlackMountainFestival
 
-[I'm an inline-style link](https://blackmountainfest.gr)
+[blackmountainfest.gr](https://blackmountainfest.gr)
